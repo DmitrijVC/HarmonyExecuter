@@ -1,0 +1,8 @@
+[package]
+name = "HarmonyExecuter"
+version = "1.0.0"
+authors = ["FssAy"]
+edition = "2018"
+
+[dependencies]
+libloading = "0.6.5"
